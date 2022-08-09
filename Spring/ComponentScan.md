@@ -2,14 +2,14 @@
 
 
 ### 컴포넌트 스캔
-***
+
 * ```@ComponentScan```을 설정 정보에 붙여주기
 * 기존의 AppConfig와 달리 ```@Bean```으로 등록한 클래스가 없음
 * ```@ComponentScan``` : 이름 그대로 ```@Component``` 애노테이션이 붙은 클래스를 스캔 후, 스프링 빈으로 등록(@Configuration은 소스코드에 @Component애노테이션이 붙어있어 컴포넌트 스캔의 대상이 됨)
 
 
 ### 탐색 위치와 기본 스캔 대상
-***
+
 #### 탐색할 패키지 시작 위치 지정
 ```
 @ComponentScan{
@@ -30,7 +30,8 @@
 ### 중복 등록과 충돌
 1. 자동 빈 등록 vs 자동 빈 등록
 2. 수동 빈 등록 vs 자동 빈 등록
-***
+
+
 * 자동 빈 등록 vs 자동 빈 등록
 : ```ConflictingBeanDefinitionExceptoin```예외 발생
 
