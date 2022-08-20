@@ -20,3 +20,8 @@ Today I Learned
     - [MVC 패턴](https://github.com/201910086/TIL/blob/main/Spring/MVCPattern.md)
     - [MVC 프레임워크](https://github.com/201910086/TIL/blob/main/Spring/MVCFramework.md)
     - [스프링 MVC](https://github.com/201910086/TIL/blob/main/Spring/SpringMVC.md)
+
+
+## 🌱SpringBoot And JPA🌱
+* 실전 스프링 부트와 JPA 활용 1 - 웹 애플리케이션 이해
+    - [프로젝트 환경 설정]()
