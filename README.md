@@ -31,6 +31,6 @@ Today I Learned
     - [웹 계층 개발](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EC%9B%B9%20%EA%B3%84%EC%B8%B5%20%EA%B0%9C%EB%B0%9C.md)
 
 * 자바 ORM 표준 JPA 프로그래밍 - 기본편
-    - [JPA 소개 & JPA 시작]()
-    - [영속성 관리]()
-    - [엔티티 매핑]()
+    - [JPA 소개 & JPA 시작](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/JPA%20%EC%86%8C%EA%B0%9C%20%26%20JPA%20%EC%8B%9C%EC%9E%91.md)
+    - [영속성 관리](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EC%98%81%EC%86%8D%EC%84%B1%20%EA%B4%80%EB%A6%AC.md)
+    - [엔티티 매핑](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91.md)
