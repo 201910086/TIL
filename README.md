@@ -46,3 +46,9 @@ Today I Learned
     - [API 개발 고급 - 지연 로딩과 조회 성능 최적화](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/API%20%EA%B0%9C%EB%B0%9C%20%EA%B3%A0%EA%B8%89%20-%20%EC%A7%80%EC%97%B0%20%EB%A1%9C%EB%94%A9%EA%B3%BC%20%EC%A1%B0%ED%9A%8C%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
     - [API 개발 고급 - 컬렉션 조회 최적화](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/API%20%EA%B0%9C%EB%B0%9C%20%EA%B3%A0%EA%B8%89%20-%20%EC%BB%AC%EB%A0%89%EC%85%98%20%EC%A1%B0%ED%9A%8C%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
     - [API 개발 고급 - 실무 필수 최적화](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/API%20%EA%B0%9C%EB%B0%9C%20%EA%B3%A0%EA%B8%89%20-%20%EC%8B%A4%EB%AC%B4%20%ED%95%84%EC%88%98%20%EC%B5%9C%EC%A0%81%ED%99%94.md)
+
+* 실전 스프링 데이터 JPA
+    - [공통 인터페이스 기능](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EA%B3%B5%ED%86%B5%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%8A%A5.md)
+    - [쿼리 메소드 기능](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EC%BF%BC%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C%20%EA%B8%B0%EB%8A%A5.md)
+    - [확장 기능](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%ED%99%95%EC%9E%A5%20%EA%B8%B0%EB%8A%A5.md)
+    - [스프링 데이터 JPA 분석](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20JPA%20%EB%B6%84%EC%84%9D.md)
