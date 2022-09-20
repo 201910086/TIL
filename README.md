@@ -52,3 +52,8 @@ Today I Learned
     - [쿼리 메소드 기능](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EC%BF%BC%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C%20%EA%B8%B0%EB%8A%A5.md)
     - [확장 기능](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%ED%99%95%EC%9E%A5%20%EA%B8%B0%EB%8A%A5.md)
     - [스프링 데이터 JPA 분석](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20JPA%20%EB%B6%84%EC%84%9D.md)
+
+* 실전 Querydsl
+    - [기본 문법](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
+    - [중급 문법](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EC%A4%91%EA%B8%89%20%EB%AC%B8%EB%B2%95.md)
+    - [실무 활용 - 스프링 데이터 JPA와 Querydsl](https://github.com/201910086/TIL/blob/main/SpringBoot%20and%20JPA/%EC%8B%A4%EB%AC%B4%20%ED%99%9C%EC%9A%A9%20-%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20JPA%EC%99%80%20Querydsl.md)
